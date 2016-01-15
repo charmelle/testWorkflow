@@ -12,3 +12,4 @@ dev/version_1.0 branch
 
 dev/version_1.1 branch
 - new version for the update
+- new feature to be released soon

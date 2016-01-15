@@ -1,3 +1,10 @@
 MASTER branch
 - created initial file masterFile.txt
 - file to be changed in development
+
+
+dev/version_1.0 branch
+- changes made for development added here
+- developers can either:
+   - commit changes here
+   - or submit pull requests so head-dev can approve changes to be included in the branch

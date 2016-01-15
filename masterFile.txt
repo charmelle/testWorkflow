@@ -11,3 +11,7 @@ dev/version_1.0 branch
 - more changes added for reference only
 
 - HOT FIX added on production code
+
+dev/version_1.1 branch
+- new version for the update
+- new feature to be released soon

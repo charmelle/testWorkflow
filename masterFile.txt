@@ -8,3 +8,4 @@ dev/version_1.0 branch
 - developers can either:
    - commit changes here
    - or submit pull requests so head-dev can approve changes to be included in the branch
+- more changes added for reference only
